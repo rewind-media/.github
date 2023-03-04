@@ -1,5 +1,5 @@
 ## Welcome
-Rewind is a set of components making up a self-hosted media server akin to [Jellyfin](https://jellyfin.org/) or [Plex](https://www.plex.tv/). However, Rewind supports high available deployments, and is designed to be modular, scalable, and highly customizable.
+Rewind is a set of components making up a self-hosted media server akin to [Jellyfin](https://jellyfin.org/) or [Plex](https://www.plex.tv/). However, Rewind supports high availability deployments, and is designed to be modular, scalable, and customizable.
 
 Rewind is currently in __Alpha__ state, meaning that breaking changes, especially to data models, are likely to be made with no migration plans provided. A current state of functionality:
 * Series (TV Shows) in [Sonarr Standard Series Heirarchy](https://wiki.servarr.com/sonarr/settings)
